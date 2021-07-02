@@ -1,0 +1,22 @@
+#Nome: Andressa Bueno Gonçalves
+#NºUSP:11374769
+#Turma: 6
+###########################3
+#Nome: Ana Alice Clímaco Barbosa
+#NºUSP: 11302348
+#Turma: 7
+
+
+EP1 - Autovalores e Autovetores de Matrizes
+Tridiagonais Simétricas - O Algoritmo QR
+
+o seguinte EP foi codificado na linguagem python versão python 3.7. Sendo assim:
+use o comando python3 para inicializar:
+	python3 ep1.py
+o seguinte arquivo possui o seguinte requerimento
+	pip3 install numpy (comando versão ubuntu)
+no qual representa a biblioteca numpy utilizada
+
+A inicialização do arquivo ep1.py apresenta os valores de lamda_j e v_j
+
+Logo após, é possível escolher a alternativa para se testar
